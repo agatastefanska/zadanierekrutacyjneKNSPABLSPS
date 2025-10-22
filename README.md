@@ -1,0 +1,2 @@
+# zadanierekrutacyjneKNSPABLSPS
+prosty manewr turtlesim
