@@ -12,13 +12,15 @@ Wymagania
 
 ---
 
-Instalacja
+Jak uruchomić?
 uruchom turtlesim:
 ros2 run turtlesim turtlesim_node
 
 2. Uruchom node turtle_eight:
 ros2 run turtle_eight turtle_controller
 
+
+---
 
 🐢 SPRAWOZDANIE 🐢
 
