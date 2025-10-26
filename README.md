@@ -35,8 +35,6 @@ Sinus zmienia znak → żółw skręca raz w prawo, raz w lewo
 tak powstaje ósemka :)
 
 
-I teraz sytuacja się tak prezentuje, że nie miałam specjalnie dużo czasu na zrobienie tego zadania, więc jest bardzo niedopracowane a ja w sumie odsyłam to co udało mi się zrobić bo stwierdziłam że nie mam nic do stracenia😅😅
-
 
 zdjęcie na dowód:
 ---
