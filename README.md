@@ -27,7 +27,8 @@ Później instalowałam ros2 również z poradnika na youtbe i z oficjalnej stro
 
 Później jak juz zainstalowałam wszytsko to utowrzyłam wymagane pliki i napisałam kod przy pomocy chatu GPT.
 Umiem jedynie podstawy pythona i nie programowałam nigdy nic w ros2, więc w zasadzie CHAT GPT mnie uratował. hehe
-Ja jedynie mówiłam mu co ma pozmieniać lub po prosru pisałam że coś nie działa
+
+Ja jedynie mówiłam mu co ma pozmieniać lub po prosru pisałam że coś nie działa i on mi podawał przykładowe przyczyny i szukałam w czym problem.
 
 Algorytm jest taki że żółw cały czas idzie do przodu (linear.x)
 Jednocześnie skręca sinusoidalnie (angular.z)
